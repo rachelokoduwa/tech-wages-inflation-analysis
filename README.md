@@ -95,6 +95,5 @@ building for a decade.
 ## Author
 
 **Rachel Okoduwa**  
-Data Analyst | Edmonton, AB  
-linkedin.com/in/rachel-okoduwa  
-rachelokoduwa.github.io
+
+
